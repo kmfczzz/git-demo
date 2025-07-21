@@ -19,3 +19,5 @@ hello chenyouliang! help git!
 hello chenyouliang! help git! master test
 hello chenyouliang! help git! hot-fix test 
 11111111111111111111111111111111111111111
+2222222222222222222222222 by clone
+33333333333333333 hhhh
